@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Hogar Animal",
+		"description": "Web platform to connect animal shelters and makes easier to adopt your pet.",
+		"image": "/assets/images/projects/hogar-animal.png",
+		"url": "https://github.com/rdalmau23/hogar-animal",
+		"technologies": [
+			{
+				"name": "React",
+				"src": "/assets/images/projects/react.png"
+			},
+			{
+				"name": "Javascript",
+				"src": "/assets/images/projects/js.png"
+			},
+			{
+				"name": "Tailwind",
+				"src": "/assets/images/projects/tailwind.png"
+			},
+			{
+				"name": "MySql",
+				"src": "/assets/images/projects/mysql.png"
+			}
+		]
+	},
+	{
+		"name": "Technical test - Pokedex",
+		"description": "Next.js technical test for BLING",
+		"image": "/assets/images/projects/pokemon.PNG",
+		"url": "https://poke-api-rafel-dalmau.netlify.app/",
+		"technologies": [
+			{
+				"name": "Next.js",
+				"src": "/assets/images/projects/next.js.png"
+			},
+			{
+				"name": "TypeScript",
+				"src": "/assets/images/projects/js.png"
+			},
+			{
+				"name": "Tailwind",
+				"src": "/assets/images/projects/tailwind.png"
+			}
+			
+		]
+	}
+]
