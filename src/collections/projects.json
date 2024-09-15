@@ -2,7 +2,7 @@
 	{
 		"name": "Hogar Animal",
 		"description": "Web platform to connect animal shelters and makes easier to adopt your pet.",
-		"image": "/assets/images/projects/hogar-animal.png",
+		"image": "/assets/images/projects/hohar-animal.png",
 		"url": "https://github.com/rdalmau23/hogar-animal",
 		"technologies": [
 			{
@@ -11,7 +11,7 @@
 			},
 			{
 				"name": "Javascript",
-				"src": "/assets/images/projects/js.png"
+				"src": "/assets/images/projects/typescript.png"
 			},
 			{
 				"name": "Tailwind",
@@ -31,11 +31,11 @@
 		"technologies": [
 			{
 				"name": "Next.js",
-				"src": "/assets/images/projects/next.js.png"
+				"src": "/assets/images/projects/nextjs.png"
 			},
 			{
 				"name": "TypeScript",
-				"src": "/assets/images/projects/js.png"
+				"src": "/assets/images/projects/typescript.png"
 			},
 			{
 				"name": "Tailwind",
