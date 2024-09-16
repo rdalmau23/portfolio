@@ -46,22 +46,24 @@ import PageHeading from "../components/page-heading.astro";
   </div>
 
   <hr />
-  <h2
-    class="mt-2 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200"
-  >
-    Certificates
-  </h2>
+    <h2
+      class="mt-2 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200"
+    >
+      Certificates
+    </h2>
   <div class="px-5 pt-10">
     {
       certifications.map((certification, loop) => {
         return (
           <>
             <div class="pb-10 border-l border-gray-200 dark:border-neutral-700">
+              <a href="https://www.credly.com/users/rafel-dalmau" target="_blank" rel="noopener noreferrer">
               <AboutExperience
                 role={certification.certified}
                 company={certification.company}
                 logo={certification.logo}
               />
+              </a>
             </div>
           </>
         );
